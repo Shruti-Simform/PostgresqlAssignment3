@@ -1,5 +1,7 @@
 # PostgresqlAssignment3
 -- CREATE VIEW TO FETCH DATA
+
+
 CREATE OR REPLACE VIEW v_merge_billing AS
 SELECT
 	o.order_id,
